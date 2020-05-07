@@ -1,0 +1,17 @@
+Windows User:
+Oracle
+AdminAdmin
+
+DB:
+KSIAZKIFILMY
+Admin pass: AdminAdmin
+"Oracle" pass: AdminAdmin
+
+hr IDENTIFIED BY haslo;
+granted:
+connect 
+DBA
+
+
+student
+student GRanted : connect
